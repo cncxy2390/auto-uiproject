@@ -1,5 +1,4 @@
 import time
-from selenium.webdriver.common.by import By
 from common.bases import Bases
 from common.logger import Logger
 
@@ -90,9 +89,6 @@ class AddShoppingPage(object):
         elif flag == False:
             try:
                 self.bs.show_waiting('number', 'ID')
-                res = self.bs.driver.find_element(by=By.ID, value='number').click()
-            except Exception:
-                self.log.getLog(element='查找元素失败')
                 res = self.bs.find_id('number').click()
                 # res = self.bs.driver.find_element(by=By.ID, value='number').click()
             except Exception:
@@ -201,7 +197,6 @@ class AddShoppingPage(object):
     def get_cart_commodity_quantity(self):
         try:
             time.sleep(2)
-            res = self.bs.driver.find_element(by=By.ID, value='goods_num')
             res = self.bs.find_id('goods_num')
             # res = self.bs.driver.find_element(by=By.ID, value='goods_num')
         except Exception:
