@@ -1,0 +1,56 @@
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - username:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - password:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - code:None
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,006 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待商品数量不能大于86
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:14:22,014 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------

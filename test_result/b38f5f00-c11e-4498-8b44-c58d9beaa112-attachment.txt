@@ -1,0 +1,14 @@
+2022-06-03 21:13:16,761 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:16,761 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:16,761 - logger.py - getLog - INFO - password:qwert12345
+2022-06-03 21:13:16,761 - logger.py - getLog - INFO - password:qwert12345
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - code:yyds
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - code:yyds
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Actual:admin
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Actual:admin
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Expected:admin
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Expected:admin
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:16,765 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------

@@ -1,0 +1,14 @@
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - password:qwert12345
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - password:qwert12345
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - code:
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - code:
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Actual:验证码不能为空
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Actual:验证码不能为空
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Expected:验证码不能为空
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Expected:验证码不能为空
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:16,063 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------

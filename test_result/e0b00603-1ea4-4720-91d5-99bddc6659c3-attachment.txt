@@ -1,0 +1,14 @@
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - username:admin
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - password:qwert12345ff
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - password:qwert12345ff
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - code:yyds
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - code:yyds
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Actual:账号密码不正确!
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Actual:账号密码不正确!
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Expected:账号密码不正确!
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Expected:账号密码不正确!
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:15,394 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------

@@ -1,0 +1,30 @@
+# 登录成功
+success:
+  username: admin
+  password: qwert12345
+  code: yyds
+# 用户名错误
+username_error:
+  username: admin
+  password: qwert12345
+  code: yyds
+# 密码错误
+pwassword_error:
+  username: admin
+  password: qwert12345
+  code: yyds
+# 用户名为空
+username_null:
+  username: admin
+  password: qwert12345
+  code: yyds
+# 密码为空
+password_null:
+  username: admin
+  password: qwert12345
+  code: yyds
+# 验证码为空
+code_null:
+  username: admin
+  password: qwert12345
+  code: yyds

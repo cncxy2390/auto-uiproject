@@ -1,0 +1,35 @@
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - username:None
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - password:None
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - code:None
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - Actual:2
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - Expected:2
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:27,130 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - username:None
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - password:None
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - code:None
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - Actual:1
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - Expected:1
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:29,989 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:34,101 - logger.py - getLog - INFO - username:None
+2022-06-03 21:13:34,102 - logger.py - getLog - INFO - password:None
+2022-06-03 21:13:34,102 - logger.py - getLog - INFO - code:None
+2022-06-03 21:13:34,103 - logger.py - getLog - INFO - Actual:86
+2022-06-03 21:13:34,103 - logger.py - getLog - INFO - Expected:86
+2022-06-03 21:13:34,103 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:34,103 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - username:None
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - password:None
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - code:None
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - Actual:None
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - Expected:None
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - Element:查找元素失败
+2022-06-03 21:13:38,235 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
+2022-06-03 21:13:51,967 - logger.py - getLog - INFO - username:None
+2022-06-03 21:13:51,968 - logger.py - getLog - INFO - password:None
+2022-06-03 21:13:51,968 - logger.py - getLog - INFO - code:None
+2022-06-03 21:13:51,969 - logger.py - getLog - INFO - Actual:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待
+2022-06-03 21:13:51,970 - logger.py - getLog - INFO - Expected:TPshop 努比亚 nubia X 双面屏 蓝金梵高 星空典藏版 8GB+512GB 全网通 移动联通电信4G手机 双卡双待
+2022-06-03 21:13:51,970 - logger.py - getLog - INFO - Element:None
+2022-06-03 21:13:51,971 - logger.py - getLog - INFO - -----------------------------------分割线-------------------------------------------
